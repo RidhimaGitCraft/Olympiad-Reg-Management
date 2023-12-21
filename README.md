@@ -26,6 +26,7 @@ Admin Login Page
 ![Admin Login Page](https://github.com/RidhimaGitCraft/Olympiad-Reg-Management/assets/153794847/c2c892ab-3537-4e9c-bdbc-9fc5038dc46c)
 
 Student Login Page 
+
 ![student login page](https://github.com/RidhimaGitCraft/Olympiad-Reg-Management/assets/153794847/28ab9e34-7e62-4ba7-9907-cd4f985c01cf)
 
 Student Registration Form 
